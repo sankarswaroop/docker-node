@@ -1,0 +1,27 @@
+{
+  "name": "docker-node",
+  "version": "1.0.0",
+  "description": "Test docker to deploy a node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sankarswaroop/docker-node.git"
+  },
+  "keywords": [
+    "DOCKER",
+    "NODE"
+  ],
+  "author": "sankarswaroop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankarswaroop/docker-node/issues"
+  },
+  "homepage": "https://github.com/sankarswaroop/docker-node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
